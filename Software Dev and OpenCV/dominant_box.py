@@ -11,7 +11,7 @@ https://code.likeagirl.io/finding-dominant-colour-on-an-image-b4e075f98097
 https://medium.com/codex/rgb-to-color-names-in-python-the-robust-way-ec4a9d97a01f
 
 Note: pip instaled webcolors to convert rgb to closest name
-Converted finding dominant color on image into video by using a bounding box and converting the knn histogram results into color name to display.
+Converted finding dominant color on image into video by using a bounding box and converting the k means histogram results into color name to display.
 '''
 
 def convert_rgb_to_names(rgb_tuple):
